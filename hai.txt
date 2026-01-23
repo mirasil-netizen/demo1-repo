@@ -1,2 +1,3 @@
 welcome to git demo
 hai how are you?
+welcome to gedit demo
